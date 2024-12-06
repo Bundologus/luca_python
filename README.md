@@ -39,4 +39,6 @@ git config add user.email <user@mail.com>
 - ```git push``` lokális verzió feltöltése a remote-ra
 - ```git switch <branch_name>``` váltás másik branch-re
 - ```git pull``` remote változásainak letöltése
+- ```git status``` aktuális állapot ellenőrzése
+- ```git log``` commint history megtekintése
 - [vizuális demo](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace)
